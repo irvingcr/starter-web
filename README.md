@@ -14,3 +14,8 @@ Sample website with plenty of files for demos.
 
 
 ##How to use
+
+
+###Copyright
+
+Copyright ME!
