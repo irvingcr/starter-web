@@ -15,6 +15,7 @@ Sample website with plenty of files for demos.
 
 ##How to use
 
+Please fork this repo for review.
 
 ###Copyright
 
