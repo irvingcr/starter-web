@@ -19,4 +19,4 @@ Please fork this repo for review.
 
 ###Copyright
 
-Copyright ME!
+Copyright ME! All Rights Reserved.
